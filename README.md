@@ -6,6 +6,7 @@ node js-repl.js
 *Se ve así:*
 JavaScript REPL - escribe como en Python
 
+```
 >>> 1+1
 2
 >>> let x = 5
@@ -20,4 +21,6 @@ hola mundo
 └──────┘
 >>> .exit
 Bye!
+```
+
 *Versión 2 - Con `...` como cuando es multilínea:*
