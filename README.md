@@ -1,7 +1,7 @@
-# Js-repl.js Consola
+# Js-repl js Consola
 
 *Corres:*
-node js-repl.js
+`node js-repl.js`
 
 *Se ve así:*
 JavaScript REPL - escribe como en Python
@@ -22,5 +22,3 @@ hola mundo
 >>> .exit
 Bye!
 ```
-
-*Versión 2 - Con `...` como cuando es multilínea:*
