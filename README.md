@@ -1,4 +1,4 @@
-# js-repl.js Consola
+# Js-repl.js Consola
 
 *Corres:*
 node js-repl.js
